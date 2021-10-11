@@ -1,0 +1,23 @@
+*{    margin:0;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+  
+  .header {
+    background-color: rgb(10, 9, 9);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 40px;
+    height: 40px;
+    z-index: 1;
+  }
+  
+ .header h2 {
+color: white;
+font-size: 20px;
+
+
+}
